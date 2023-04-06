@@ -1,3 +1,3 @@
 # calculator
 
-<p>Js Calulator for web base</p>:https://web-js-calculator.netlify.app/
+<p>Js Calulator for web base: https://web-js-calculator.netlify.app/</p>
